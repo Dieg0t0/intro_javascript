@@ -56,7 +56,7 @@
   baz();
   ``` 
 > _2_
-> _2_
+> _2 y undefined_
 
 
 4. What will you see in the console for the following example?
